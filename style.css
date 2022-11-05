@@ -2,3 +2,19 @@ img {
     border-radius: 12px;
 }
 
+table {
+    border-style: groove;
+}
+
+th {
+    border-style: solid;
+    width: 120px;
+    text-align: center;
+}
+
+td {
+    border-style: solid;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+}
