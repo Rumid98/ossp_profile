@@ -1,5 +1,5 @@
 img {
-    border-radius: 12px;
+    border-radius: 10px;
 }
 
 table {
@@ -7,14 +7,29 @@ table {
 }
 
 th {
-    border-style: solid;
     width: 120px;
+    height: 25px;
+    border-style: solid;
     text-align: center;
 }
 
 td {
-    border-style: solid;
     width: 120px;
     height: 30px;
+    border-style: solid;
     text-align: center;
+}
+
+#wrapper {
+    background: white;
+    margin: auto;
+    padding: 15px;
+}
+
+#crimson {
+    color: crimson;
+}
+
+#blue {
+    color: blue;
 }
